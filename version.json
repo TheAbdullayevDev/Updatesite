@@ -1,0 +1,21 @@
+{
+  "version": "1.0.3",
+  "generatedAt": "2026-11-25T11:10:57Z",
+  "notes": "GitHub yangilash sinovi: 67-shablon, 10 ta SINOV savoli, namuna rasm va 4 soniyali MP4 video. Bu savollar rasmiy imtihon savollari emas.",
+  "payload": {
+    "path": "content-update.json",
+    "sha256": "b062ab1930887e3d1daafa0158269dd47a623b7a3ce84f78ad233bc826083c0c"
+  },
+  "assets": [
+    {
+      "path": "updates/media/github-test-image.png",
+      "sha256": "a938d3b1a7e94b7836b12d10709754d0d9b9e0c0a19a2dc6152396174fe910b7",
+      "type": "image/png"
+    },
+    {
+      "path": "updates/media/github-test-video.mp4",
+      "sha256": "f9af4a1204651f5373d3324abce51d96ad676d343f39a0f81189f781a2ded9b0",
+      "type": "video/mp4"
+    }
+  ]
+}
