@@ -1,0 +1,31 @@
+{
+  "version": "1.0.6",
+  "generatedAt": "2026-11-25T12:16:43.795Z",
+  "notes": "Joriy saqlangan holat",
+  "payload": {
+    "path": "content-update.json",
+    "sha256": "5870d3af1d3cb2576946ec41e6637d8bc57ef35fbeba4025cce8a57884b1bb47"
+  },
+  "assets": [
+    {
+      "path": "updates/media/_Kinder_.png",
+      "sha256": "52babaa48fc96e55f11acfd4eb9a31350f3b8796b70696ee643e0a253b79c260",
+      "type": "image/png"
+    },
+    {
+      "path": "updates/media/IMG_1829.MP4",
+      "sha256": "6c7def019258d5c121761a92da4f8d2e94f9db3f5d7851f4cddbbfe9b34d7f94",
+      "type": "video/mp4"
+    },
+    {
+      "path": "updates/media/5373141818767255454.jpg",
+      "sha256": "25544c8d60c8b0e623f95501c649feb254c2236a93ce57ebf51cd705ea4f074b",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "updates/media/IMG_0774.MOV",
+      "sha256": "a11243fdb8bdb9d15e8f9bbafc6c15b6bb7210f4c5e1e5a7256ebc049f253e16",
+      "type": "video/quicktime"
+    }
+  ]
+}
