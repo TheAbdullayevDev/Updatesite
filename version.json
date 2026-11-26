@@ -1,10 +1,16 @@
 {
-  "version": "1.0.8",
-  "generatedAt": "2026-11-25T15:02:54.841Z",
-  "notes": "Dasturchi rejimi: 8-shablon, 20-savol — variantlar o‘zgardi",
+  "version": "1.0.9",
+  "generatedAt": "2026-11-26T12:10:28.303Z",
+  "notes": "Dasturchi rejimi: 66-shablon — 12-o‘ringa yangi savol qo‘shildi; 66-shablon, 12-savol — matn o‘zgardi; 66-shablon, 12-savol — variantlar o‘zgardi; 66-shablon, 12-savol — rasm o‘zgardi; 66-shablon, 12-savol — video o‘zgardi",
   "payload": {
     "path": "content-update.json",
-    "sha256": "8cd01ebc846eae88fbf45ac5ebd1641ab30febb9e6848b3b2f6a759b59ff8a4f"
+    "sha256": "7b93198fdf2388646b936a323e14b8ace494ce841c0510e8a36229ebc3f1378a"
   },
-  "assets": []
+  "assets": [
+    {
+      "path": "updates/media/66-12.MOV",
+      "sha256": "56bdb0e3d11301e272c2888026a2e6667415753edb310158da289b6e67a92aca",
+      "type": "video/quicktime"
+    }
+  ]
 }
