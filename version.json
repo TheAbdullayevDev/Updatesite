@@ -1,10 +1,10 @@
 {
-  "version": "1.0.12",
-  "generatedAt": "2026-11-26T12:38:57.801Z",
-  "notes": "Dasturchi rejimi: 66-shablon, 13-savol — izoh o‘zgardi",
+  "version": "1.0.13",
+  "generatedAt": "2026-11-26T13:05:27.242Z",
+  "notes": "Dasturchi rejimi: 66-shablon, 13-savol — matn o‘zgardi; 66-shablon, 13-savol — variantlar o‘zgardi; 66-shablon, 13-savol — to‘g‘ri javob o‘zgardi",
   "payload": {
     "path": "content-update.json",
-    "sha256": "cbe53c2b2a583b1bd90e2e898447b876d8967a8a8cf7a653d78ebc41f77b9d65"
+    "sha256": "bb0eb14a4608746960260dde774fe6411088adf47967dc4d00138e028d976893"
   },
   "assets": [
     {
