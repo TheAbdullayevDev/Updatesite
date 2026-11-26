@@ -1,10 +1,10 @@
 {
-  "version": "1.0.13",
-  "generatedAt": "2026-11-26T13:05:27.242Z",
-  "notes": "Dasturchi rejimi: 66-shablon, 13-savol — matn o‘zgardi; 66-shablon, 13-savol — variantlar o‘zgardi; 66-shablon, 13-savol — to‘g‘ri javob o‘zgardi",
+  "version": "1.0.14",
+  "generatedAt": "2026-11-26T14:01:09.542Z",
+  "notes": "Dasturchi rejimi: 66-shablon — 2-o‘ringa yangi savol qo‘shildi; 66-shablon — 3-o‘ringa yangi savol qo‘shildi; 66-shablon, 2-savol o‘chirildi; 66-shablon, 2-savol o‘chirildi; 66-shablon — 14-o‘ringa yangi savol qo‘shildi; 66-shablon — 15-o‘ringa yangi savol qo‘shildi; 66-shablon — 16-o‘ringa yangi savol qo‘shildi; 66-shablon — 17-o‘ringa yangi savol qo‘shildi; 66-shablon — 18-o‘ringa yangi savol qo‘shildi; 66-shablon — 19-o‘ringa yangi savol qo‘shildi; 66-shablon — 20-o‘ringa yangi savol qo‘shildi; 66-shablon, 20-savol — video o‘zgardi; 66-shablon, 20-savol — matn o‘zgardi; 66-shablon, 20-savol — variantlar o‘zgardi; 66-shablon, 20-savol — rasm o‘zgardi",
   "payload": {
     "path": "content-update.json",
-    "sha256": "bb0eb14a4608746960260dde774fe6411088adf47967dc4d00138e028d976893"
+    "sha256": "b4d1b289b727c6a496516a49b8dd7f67f35c89873c77108fd58a734d62b6795e"
   },
   "assets": [
     {
@@ -15,6 +15,11 @@
     {
       "path": "updates/media/66-13.MOV",
       "sha256": "fd55094956e3fe33b1dabcfe89c1e396dbfe410fa91e27a378e53dafa29ca035",
+      "type": "video/quicktime"
+    },
+    {
+      "path": "updates/media/66-20.MOV",
+      "sha256": "838c3f31963b0ab6b1f1fba7ae3baf016508b17c74bff5f4cb6d5d67138dada4",
       "type": "video/quicktime"
     }
   ]
