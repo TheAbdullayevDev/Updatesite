@@ -1,10 +1,10 @@
 {
-  "version": "1.0.18",
-  "generatedAt": "2026-11-26T15:40:15.204Z",
-  "notes": "Dasturchi rejimi: Yangi shablon qo‘shildi: 67-shablon; 67-shablon, 1-savol — video o‘zgardi; 67-shablon, 1-savol — rasm o‘zgardi; 67-shablon, 1-savol — matn o‘zgardi; 67-shablon, 1-savol — variantlar o‘zgardi; 67-shablon, 1-savol — to‘g‘ri javob o‘zgardi; 67-shablon — 2-o‘ringa yangi savol qo‘shildi; 67-shablon, 2-savol — video o‘zgardi; 67-shablon, 2-savol — rasm o‘zgardi; 67-shablon, 2-savol — matn o‘zgardi; 67-shablon, 2-savol — variantlar o‘zgardi; 67-shablon — 3-o‘ringa yangi savol qo‘shildi; 67-shablon, 3-savol — video o‘zgardi; 67-shablon, 3-savol — rasm o‘zgardi; 67-shablon, 3-savol — matn o‘zgardi; 67-shablon, 3-savol — variantlar o‘zgardi; 67-shablon — 4-o‘ringa yangi savol qo‘shildi; 67-shablon, 4-savol — video o‘zgardi; 67-shablon, 4-savol — rasm o‘zgardi; 67-shablon, 4-savol — matn o‘zgardi; 67-shablon, 4-savol — variantlar o‘zgardi; 67-shablon, 4-savol — to‘g‘ri javob o‘zgardi; 67-shablon — 5-o‘ringa yangi savol qo‘shildi; 67-shablon, 5-savol — video o‘zgardi; 67-shablon, 5-savol — rasm o‘zgardi; 67-shablon, 5-savol — variantlar o‘zgardi; 67-shablon, 5-savol — matn o‘zgardi; 67-shablon, 5-savol — to‘g‘ri javob o‘zgardi; 67-shablon — 6-o‘ringa yangi savol qo‘shildi; 67-shablon, 6-savol — video o‘zgardi",
+  "version": "1.0.19",
+  "generatedAt": "2026-11-26T16:22:06.912Z",
+  "notes": "Dasturchi rejimi: 1-shablon, 1-savol — kirill matn qo‘lda tuzatildi; Kirill: 1 ta savol va 21 ta maydon lotindan avtomatik to‘ldirildi",
   "payload": {
     "path": "content-update.json",
-    "sha256": "04498d98fb01568b33040268e72cd7df6c2b30f88e7f46e854e0e3ee4a0466cc"
+    "sha256": "c882e986db57802f88052e167270f7ef4908eaa3b5711ccc6e04578d426bdc31"
   },
   "assets": [
     {
