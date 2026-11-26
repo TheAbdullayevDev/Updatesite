@@ -1,15 +1,20 @@
 {
-  "version": "1.0.11",
-  "generatedAt": "2026-11-26T12:36:10.858Z",
-  "notes": "Dasturchi rejimi: 17-shablon, 2-savol — javob varianti o‘zgardi",
+  "version": "1.0.12",
+  "generatedAt": "2026-11-26T12:38:57.801Z",
+  "notes": "Dasturchi rejimi: 66-shablon, 13-savol — izoh o‘zgardi",
   "payload": {
     "path": "content-update.json",
-    "sha256": "e1f0d70f0f2a5199a154df061c092acce87335ecbd6e506c2ee1a64101e93eb3"
+    "sha256": "cbe53c2b2a583b1bd90e2e898447b876d8967a8a8cf7a653d78ebc41f77b9d65"
   },
   "assets": [
     {
       "path": "updates/media/66-12.MOV",
       "sha256": "56bdb0e3d11301e272c2888026a2e6667415753edb310158da289b6e67a92aca",
+      "type": "video/quicktime"
+    },
+    {
+      "path": "updates/media/66-13.MOV",
+      "sha256": "fd55094956e3fe33b1dabcfe89c1e396dbfe410fa91e27a378e53dafa29ca035",
       "type": "video/quicktime"
     }
   ]
