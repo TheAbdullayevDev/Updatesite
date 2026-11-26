@@ -1,20 +1,15 @@
 {
-  "version": "1.0.16",
-  "generatedAt": "2026-11-26T14:41:50.333Z",
-  "notes": "Dasturchi rejimi: 66-shablon, 14-savol — video o‘zgardi; 66-shablon, 14-savol — rasm o‘zgardi; 66-shablon, 14-savol — matn o‘zgardi; 66-shablon, 14-savol — variantlar o‘zgardi; 66-shablon, 14-savol — variantlar, to‘g‘ri javob o‘zgardi; 66-shablon, 14-savol — to‘g‘ri javob o‘zgardi; 66-shablon, 15-savol — video o‘zgardi; 66-shablon, 15-savol — matn o‘zgardi; 66-shablon, 15-savol — rasm o‘zgardi; 66-shablon, 15-savol — variantlar, to‘g‘ri javob o‘zgardi; 66-shablon, 15-savol — variantlar o‘zgardi; 66-shablon, 15-savol — to‘g‘ri javob o‘zgardi; 66-shablon, 16-savol — video o‘zgardi; 66-shablon, 16-savol — rasm o‘zgardi",
+  "version": "1.0.17",
+  "generatedAt": "2026-11-26T15:16:52.686Z",
+  "notes": "Dasturchi rejimi: 66-shablon, 14-savol — video o‘zgardi; 66-shablon, 14-savol — rasm o‘zgardi; 66-shablon, 14-savol — matn o‘zgardi; 66-shablon, 14-savol — variantlar o‘zgardi; 66-shablon, 20-savol o‘chirildi; 66-shablon, 19-savol o‘chirildi; 66-shablon, 18-savol o‘chirildi; 66-shablon, 17-savol o‘chirildi; 66-shablon, 16-savol o‘chirildi; 66-shablon, 15-savol o‘chirildi; 66-shablon — 15-o‘ringa yangi savol qo‘shildi; 66-shablon, 15-savol — video o‘zgardi; 66-shablon, 15-savol — rasm o‘zgardi; 66-shablon, 15-savol — variantlar o‘zgardi; 66-shablon, 15-savol — matn o‘zgardi; 66-shablon — 16-o‘ringa yangi savol qo‘shildi; 66-shablon, 16-savol — video o‘zgardi; 66-shablon, 16-savol — rasm o‘zgardi; 66-shablon, 16-savol — matn o‘zgardi; 66-shablon, 16-savol — variantlar o‘zgardi; 66-shablon — 17-o‘ringa yangi savol qo‘shildi; 66-shablon, 17-savol — video o‘zgardi; 66-shablon, 17-savol — rasm o‘zgardi; 66-shablon, 17-savol — matn o‘zgardi; 66-shablon, 17-savol — variantlar o‘zgardi; 66-shablon, 17-savol — to‘g‘ri javob o‘zgardi; 66-shablon — 18-o‘ringa yangi savol qo‘shildi; 66-shablon, 18-savol — video o‘zgardi; 66-shablon, 18-savol — rasm o‘zgardi; 66-shablon, 18-savol — matn o‘zgardi",
   "payload": {
     "path": "content-update.json",
-    "sha256": "f8ae616c3bb71adf1ec8d482592b5971a220e12b805803b5463bbd3d41fce504"
+    "sha256": "6a458cf0e15f23bc445c701b2e8b6713853c132a2bf2c00d47656dc5d90d69e3"
   },
   "assets": [
     {
-      "path": "updates/media/66_15.jpg",
-      "sha256": "40c480062e56be63de20e61c53ee39fb8fc98b201cf9538d6fd31e81f634c37e",
-      "type": "image/jpeg"
-    },
-    {
-      "path": "updates/media/66-15.MOV",
-      "sha256": "03d4ed739ecffb7a4051544ca4f3d5f11000bff2a4726bdbcebbc647ea356d2c",
+      "path": "updates/media/66-14.MOV",
+      "sha256": "96135f5e5d31bda341b7ce09b28b122bcd95fc354b45c199a3f397c2d0295c08",
       "type": "video/quicktime"
     },
     {
@@ -28,8 +23,13 @@
       "type": "video/quicktime"
     },
     {
-      "path": "updates/media/66-14.MOV",
-      "sha256": "96135f5e5d31bda341b7ce09b28b122bcd95fc354b45c199a3f397c2d0295c08",
+      "path": "updates/media/66_15.jpg",
+      "sha256": "40c480062e56be63de20e61c53ee39fb8fc98b201cf9538d6fd31e81f634c37e",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "updates/media/66-15.MOV",
+      "sha256": "03d4ed739ecffb7a4051544ca4f3d5f11000bff2a4726bdbcebbc647ea356d2c",
       "type": "video/quicktime"
     },
     {
