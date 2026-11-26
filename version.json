@@ -1,10 +1,10 @@
 {
-  "version": "1.0.10",
-  "generatedAt": "2026-11-26T12:17:17.971Z",
-  "notes": "Dasturchi rejimi: 15-shablon, 4-savol — variantlar o‘zgardi",
+  "version": "1.0.11",
+  "generatedAt": "2026-11-26T12:36:10.858Z",
+  "notes": "Dasturchi rejimi: 17-shablon, 2-savol — javob varianti o‘zgardi",
   "payload": {
     "path": "content-update.json",
-    "sha256": "a47293bfa5db85096f5738a1434e72b99e02dfc3577b73b86341c1599ac6c5f4"
+    "sha256": "e1f0d70f0f2a5199a154df061c092acce87335ecbd6e506c2ee1a64101e93eb3"
   },
   "assets": [
     {
