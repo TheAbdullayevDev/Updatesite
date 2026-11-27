@@ -1,0 +1,22 @@
+/* =====================================================================================
+   style.css — DASTUR KO'RINISHI
+   Vault ichida: ildizda.  GitHub'da: app/files/style.css
+   ===================================================================================== */
+
+/* 1. Ranglar va o'zgaruvchilar — :root { --bg, --text, --accent ... }  va  body.light { ... } (yorug' mavzu) */
+
+/* 2. Umumiy: body, tugmalar (.next-btn), kartalar (.settings-admin-card), kirish oynasi */
+
+/* 3. Yuqori panel va .page-view (sahifalar) */
+
+/* 4. Bosh sahifa kartalari (.home-view) */
+
+/* 5. Shablonlar (.templates-view) va mavzular (.topics-view) panjarasi */
+
+/* 6. Test oynasi: savol, javoblar, media, raqamlar paneli, izoh, taymer */
+
+/* 7. Natija oynasi (.result-view) */
+
+/* 8. Sozlamalar (.option-view), yangilash kartalari (.public-update-card), xabar (.auto-update-notice) */
+
+/* 9. Moslashuvchanlik: @media (max-width: ...) */

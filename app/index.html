@@ -1,0 +1,75 @@
+<!doctype html>
+<!--
+  ================================================================================
+  index.html — DASTURNING YAGONA SAHIFASI (lotin va kirill ikkalasi shu faylda)
+  ================================================================================
+  Vault ichida: ildizda (https://vault.local/index.html). EXE shu faylni birinchi ochadi.
+  GitHub'da:    app/files/index.html (imzolangan dastur paketi ichida).
+
+  Bu yerga yoziladi:
+    1) <head>: meta, sarlavha, style.css va dev-mode.css ulanishi, til.js (yozuv tanlash).
+    2) <body>: sahifalar (view) — har biri <section class="page-view"> ; bittasi ko'rinadi, qolganlari hidden.
+    3) <body> oxirida: skriptlar QAT'IY SHU TARTIBDA ulanadi (pastda ro'yxat).
+  Matnlar lotinda yoziladi — kirillga til.js o'zi o'giradi.
+-->
+<html lang="uz">
+<head>
+<meta charset="utf-8">
+<!-- Bu yerga: <meta name="viewport" ...>, <title>, <link rel="icon" href="icon.ico"> -->
+<!-- Bu yerga: <link rel="stylesheet" href="style.css">  va  <link rel="stylesheet" href="dev-mode.css"> -->
+<!-- Bu yerga: <script src="til.js"></script>  — <head> ichida, eng birinchi (yozuvni sahifa chizilishidan oldin aniqlaydi) -->
+</head>
+<body>
+
+<!-- ============ YUQORI PANEL ============
+     Bu yerga: logotip, tugmalar — id: homeBtn, templatesBtn, fullscreenTopBtn, themeBtn, imtihon taymeri (topExamTimer).
+     Kirish (salomlashish) oynasi: welcomeIntro, welcomeSkip. -->
+
+<!-- ============ 1. BOSH SAHIFA ============
+     <section id="homeView" class="page-view home-view">
+     Bu yerga: salomlashish matni (homeWelcomeTitle, homeWelcomeText), statistikalar (homeQuestionStat, homeTemplateStat)
+     va kartalar: Shablonlar (homeTemplatesBtn), Umumiy test (homeGeneralTestBtn), Barcha savollar (homeAllQuestionsBtn),
+     Mavzular (homeTopicsBtn), Natijalar (homeResultsBtn), Sozlamalar (homeSettingsBtn). -->
+
+<!-- ============ 2. SHABLONLAR ============
+     <section id="templatesView" class="page-view templates-view" hidden>
+     Bu yerga: qidiruv (templateSearch) va shablon kartalari joyi (templateGrid) — kartalarni app.js to'ldiradi. -->
+
+<!-- ============ 3. MAVZULAR ============
+     <section id="topicsView" class="page-view topics-view" hidden>
+     Bu yerga: orqaga (topicsBackHome), qidiruv (topicSearch), soni (topicCountLabel), kartalar joyi (topicGrid) — topics.js to'ldiradi. -->
+
+<!-- ============ 4. UMUMIY TEST ============
+     <section id="generalTestView" class="page-view option-view" hidden>
+     Bu yerga: test turi va savollar soni tanlovi, orqaga tugmasi (generalBackHome). -->
+
+<!-- ============ 5. SOZLAMALAR ============
+     <section id="settingsView" class="page-view option-view" hidden>
+     Bu yerga: variantlarni aralashtirish (shuffleTemplateAnswers), dasturchi rejimi (devModeSwitch),
+     avtomatik yangilash (autoUpdateSwitch), GitHub/Drive tugmalari (checkGithubBtn, checkDriveBtn),
+     versiya (currentAppVersion), holat (updateStatus), ZIP tanlash (localUpdateZip, installLocalZipBtn).
+     MUHIM: yangilash bloki <div class="settings-admin-card update-settings-card"> ichida bo'lsin —
+     auto-update.js "Savollarni yangilash" va "Dasturni yangilash" kartalarini shu blok oldiga qo'yadi. -->
+
+<!-- ============ 6. TEST OYNASI ============
+     <section id="quizView" ...>
+     Bu yerga: savol matni (question), javob variantlari (answers), rasm/video (media), raqamlar paneli (numbers),
+     oldingi/keyingi (prev, next), izoh (explanation), hisob (score, counter, progressBar), taymer (quizTimer). -->
+
+<!-- ============ 7. NATIJA ============
+     <section id="resultView" class="page-view result-view" hidden>
+     Bu yerga: to'g'ri/xato soni, foiz, qayta ishlash tugmasi. -->
+
+<!-- ============ SKRIPTLAR (tartib muhim!) ============
+     <script>YOZUV.boot()</script>          — sahifa matnini tanlangan yozuvga o'giradi, savollar faylini yuklaydi
+     <script src="content-update.js"></script>
+     <script src="topics.js"></script>
+     <script src="translit.js"></script>
+     <script src="update-client.js"></script> — yangilanish (GitHub / vault) — app.js dan OLDIN
+     <script src="app.js"></script>
+     <script src="github-token.js"></script>
+     <script src="dev-mode.js"></script>
+     <script src="auto-update.js"></script>   — eng oxirida -->
+
+</body>
+</html>

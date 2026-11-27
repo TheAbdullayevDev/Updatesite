@@ -1,0 +1,5 @@
+assets/rasmlar/ — SAVOL RASMLARI
+Bu yerga: savollardagi rasmlar (.jpg, .png, .webp).
+Nomlash: <shablon>-<savol>.jpg  (masalan 1-1.jpg = 1-shablon, 1-savol). logo.png, logo2.png — dastur logotipi.
+Savol faylida yo'l shunday yoziladi:  "rasm": "rasmlar/1-1.jpg"
+Vault ichida: assets/rasmlar/...   (VaultTahrir: "Qo'shiladigan joy" = assets/rasmlar)

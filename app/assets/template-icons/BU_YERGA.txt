@@ -1,0 +1,2 @@
+assets/template-icons/ — SHABLON KARTALARI IKONKALARI
+Bu yerga: icon-1.png ... icon-6.png (shablonlar ro'yxatida navbat bilan ishlatiladi).

@@ -1,0 +1,5 @@
+assets/shablonlar/videolar/ — IZOH VIDEOLARI (eng katta qism, ~31 GB)
+Bu yerga: savol izohi videolari (.mov, .mp4).
+Nomlash: <shablon>_<savol>.mov  (masalan 1_1.mov = 1-shablon, 1-savol).
+Savol faylida:  "izoh_video": "videolar/1_1.mov"   (xato javob uchun: "wrong_video")
+Vault ichida: assets/shablonlar/videolar/...   (VaultTahrir: "Qo'shiladigan joy" = assets/shablonlar/videolar)
