@@ -1,16 +1,21 @@
 {
-  "version": "1.0.21",
-  "generatedAt": "2026-11-28T08:05:33.299Z",
-  "notes": "Dasturchi rejimi: 60-shablon, 6-savol — javob varianti o‘zgardi (kirill ham); 60-shablon, 6-savol — variantlar o‘zgardi (kirill ham); 60-shablon, 6-savol — variantlar, to‘g‘ri javob o‘zgardi (kirill ham)",
+  "version": "1.0.22",
+  "generatedAt": "2026-11-28T08:37:45.727Z",
+  "notes": "Dasturchi rejimi: 63-shablon, 20-savol — savol matni o‘zgardi (kirill ham); 63-shablon, 20-savol — matn o‘zgardi (kirill ham); 63-shablon, 20-savol — rasm o‘zgardi (kirill ham); 63-shablon, 20-savol — variantlar o‘zgardi (kirill ham); 63-shablon, 20-savol — to‘g‘ri javob o‘zgardi (kirill ham)",
   "payload": {
     "path": "content-update.json",
-    "sha256": "afae54c250f2c09a54100856539a6703d2690247616c75628f074b7f60e33de3"
+    "sha256": "4e8298711d99a723aec4d95511c43121e6fa785e38b45778108d56bb36081aff"
   },
   "assets": [
     {
       "path": "updates/media/66-14.MOV",
       "sha256": "96135f5e5d31bda341b7ce09b28b122bcd95fc354b45c199a3f397c2d0295c08",
       "type": "video/mp4"
+    },
+    {
+      "path": "updates/media/63-20.jpg",
+      "sha256": "c4a18178327456ad2805a0a3479e3be450cd8fceaa19e300919753b1b4f2284f",
+      "type": "image/jpeg"
     },
     {
       "path": "updates/media/66-12.MOV",
