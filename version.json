@@ -1,26 +1,26 @@
 {
-  "version": "1.0.20",
-  "generatedAt": "2026-11-27T09:12:33.595Z",
-  "notes": "Dasturchi rejimi: 67-shablon — 2-o‘ringa yangi savol qo‘shildi; 67-shablon, 2-savol — rasm o‘zgardi (kirill ham); 67-shablon, 2-savol — video o‘zgardi (kirill ham); 67-shablon, 2-savol — variantlar o‘zgardi (kirill ham); 67-shablon, 2-savol — to‘g‘ri javob o‘zgardi (kirill ham)",
+  "version": "1.0.21",
+  "generatedAt": "2026-11-28T08:05:33.299Z",
+  "notes": "Dasturchi rejimi: 60-shablon, 6-savol — javob varianti o‘zgardi (kirill ham); 60-shablon, 6-savol — variantlar o‘zgardi (kirill ham); 60-shablon, 6-savol — variantlar, to‘g‘ri javob o‘zgardi (kirill ham)",
   "payload": {
     "path": "content-update.json",
-    "sha256": "291f22d34365deb20185ab8171ae7cbc915a651efc3334d7aca1437a799f729e"
+    "sha256": "afae54c250f2c09a54100856539a6703d2690247616c75628f074b7f60e33de3"
   },
   "assets": [
     {
       "path": "updates/media/66-14.MOV",
       "sha256": "96135f5e5d31bda341b7ce09b28b122bcd95fc354b45c199a3f397c2d0295c08",
-      "type": "application/octet-stream"
+      "type": "video/mp4"
     },
     {
       "path": "updates/media/66-12.MOV",
       "sha256": "56bdb0e3d11301e272c2888026a2e6667415753edb310158da289b6e67a92aca",
-      "type": "application/octet-stream"
+      "type": "video/mp4"
     },
     {
       "path": "updates/media/66-13.MOV",
       "sha256": "fd55094956e3fe33b1dabcfe89c1e396dbfe410fa91e27a378e53dafa29ca035",
-      "type": "application/octet-stream"
+      "type": "video/mp4"
     },
     {
       "path": "updates/media/66_15.jpg",
@@ -30,12 +30,12 @@
     {
       "path": "updates/media/66-15.MOV",
       "sha256": "03d4ed739ecffb7a4051544ca4f3d5f11000bff2a4726bdbcebbc647ea356d2c",
-      "type": "application/octet-stream"
+      "type": "video/mp4"
     },
     {
       "path": "updates/media/66-16.MOV",
       "sha256": "40d81c7896de03c384eb375415856b9122992f4c3db865a2d762c3a7bd9fe655",
-      "type": "application/octet-stream"
+      "type": "video/mp4"
     },
     {
       "path": "updates/media/66_17.jpg",
@@ -45,7 +45,7 @@
     {
       "path": "updates/media/66-17.MOV",
       "sha256": "bd05723a48e49f9871082b13272ff83c1763edb9c57e1d81df874a71f6cff714",
-      "type": "application/octet-stream"
+      "type": "video/mp4"
     },
     {
       "path": "updates/media/66_18.jpg",
@@ -55,7 +55,7 @@
     {
       "path": "updates/media/66-18.MOV",
       "sha256": "e082bc22cb8e740731942ea1fdc7fcd7ec343466379e4ca09a12db6bb2cd6e13",
-      "type": "application/octet-stream"
+      "type": "video/mp4"
     },
     {
       "path": "updates/media/66_19.jpg",
@@ -65,17 +65,17 @@
     {
       "path": "updates/media/66-19.MOV",
       "sha256": "2d4573941589c506c4e48d26061b42042ec7b9bbc1ad615b963766bc1e24907d",
-      "type": "application/octet-stream"
+      "type": "video/mp4"
     },
     {
       "path": "updates/media/66-20.MOV",
       "sha256": "838c3f31963b0ab6b1f1fba7ae3baf016508b17c74bff5f4cb6d5d67138dada4",
-      "type": "application/octet-stream"
+      "type": "video/mp4"
     },
     {
       "path": "updates/media/67-1.MOV",
       "sha256": "9f53b6735d16c6b0a1f2180a645643d32c725caed7dd0b8304b7d7b22229a83a",
-      "type": "application/octet-stream"
+      "type": "video/mp4"
     },
     {
       "path": "updates/media/7875-271.mp4",
