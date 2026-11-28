@@ -1,10 +1,10 @@
 {
-  "version": "1.0.23",
-  "generatedAt": "2026-11-28T08:40:41.934Z",
-  "notes": "Dasturchi rejimi: 66-shablon, 14-savol — to‘g‘ri javob o‘zgardi (kirill ham)",
+  "version": "1.0.24",
+  "generatedAt": "2026-11-28T08:49:52.038Z",
+  "notes": "Dasturchi rejimi: 66-shablon, 18-savol — javob varianti o‘zgardi (kirill ham)",
   "payload": {
     "path": "content-update.json",
-    "sha256": "2abef9c7766af5af5a7a95df988303e75162650c56a163d2b5fa538825bb0dd7"
+    "sha256": "bfb4d692e63ace73f8ec0f0f008c6fca339c6dc242ca4b8607b537bc5a5fc430"
   },
   "assets": [
     {
